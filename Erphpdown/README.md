@@ -1,1 +1,1 @@
-WordPress插件（erphpdown）是模板兔开发的一款针对虚拟资源收费下载的插件，经过完美测试运行于wordpress 3.x-5.x版本。经检测发现存在一处反射性xss漏洞和多处后台盲注
+WordPress插件（erphpdown）是模板兔开发的一款针对虚拟资源收费下载的插件，经过完美测试运行于wordpress 3.x-5.x版本，经检测发现存在一处反射性xss漏洞和多处后台盲注。
